@@ -1,0 +1,28 @@
+#skylinelogo{
+    height: 150px;width: 150px;
+}
+nav ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+nav li{
+    margin: 10px;
+}
+.places{
+    color: brown;
+    font-size: 20px;
+}
+span{
+    font-size: large;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    font-size: 60px;
+}
+body{
+background-image:url(https://www.freepik.com/free-photos-vectors/travel)
+}
